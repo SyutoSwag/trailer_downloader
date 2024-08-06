@@ -62,5 +62,5 @@ brew install ffmpeg
 2. 在終端（Terminal）或命令提示符（Command Prompt）中導航到檔案所在的目錄。
 3. 運行腳本：
 ```sh
-python {studio}_downloader.py
+python {studio}_trailer_downloader.py
 ```
