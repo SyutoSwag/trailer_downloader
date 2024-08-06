@@ -58,9 +58,9 @@ brew install ffmpeg
 
 按照以下步驟運行腳本：
 
-1. `下載 trailer_downloader.py`。
+1. 下載 任意 studio 的 python 檔案。
 2. 在終端（Terminal）或命令提示符（Command Prompt）中導航到檔案所在的目錄。
 3. 運行腳本：
 ```sh
-python trailer_downloader.py
+python {studio}_downloader.py
 ```
